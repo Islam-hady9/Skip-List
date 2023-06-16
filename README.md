@@ -1,5 +1,5 @@
 # Skip-List
-Skip List Using Java
+## Skip List Using Java
 
 We created a database to store and retrieve the data. 
 You should create a database called Algorithm_Project_One on your workbench using the following commands (MySql).
@@ -14,11 +14,6 @@ Second, you should connect your database with the project by following these ste
 3- Choose ClassPath from the right window then click Add External JARS.
 4- Then choose the JDBC that you will find in the src file with the name (mysql-connector-j-8.0.33.jar).
 5- Finally click open.
-
-OR
-
-See this video
-https://www.youtube.com/watch?v=h6xwRwlFypM		// See minute 3:20
 
 Finally, Go to the DatabaseJDBC class in line 14 and change the following:
 1- The localhost of the database with your database localhost
