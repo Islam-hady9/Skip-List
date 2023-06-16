@@ -1,6 +1,8 @@
 # Skip-List
 ## Skip List Using Java
 
+### Notes when using the program:
+
 We created a database to store and retrieve the data. 
 You should create a database called Algorithm_Project_One on your workbench using the following commands (MySql).
 
